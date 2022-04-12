@@ -1,0 +1,5 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:top="@dimen/floating_hint_margin">
+        <color android:color="@color/winshop_white"></color>
+    </item>
+</layer-list>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "220157288006",
+    "project_id": "sql-terminal",
+    "storage_bucket": "sql-terminal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220157288006:android:0ada74e642883e6dc2b447",
+        "android_client_info": {
+          "package_name": "com.winshop.sqlterminal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220157288006-beaiarl09knb4f35v00s2ack19tvc4ss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBozA9f7cWZ1lYn5sXYN3lksUIbVu939T8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220157288006-beaiarl09knb4f35v00s2ack19tvc4ss.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

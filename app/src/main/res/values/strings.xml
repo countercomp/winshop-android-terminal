@@ -1,0 +1,218 @@
+<resources>
+    <string name="app_name">SQL terminal</string>
+    <string name="menu_stats">Statistiky</string>
+    <string name="menu_intro">Start</string>
+    <string name="menu_scanner">Skener</string>
+    <string name="menu_apps">Aplikace</string>
+    <string name="title_activity_dashboard" translatable="false">DashboardActivity</string>
+    <string name="title_activity_table_view" translatable="false">TableViewActivity</string>
+    <string name="hello">Hello World, CreateTable!</string>
+    <string name="title_activity_menu" translatable="false">MenuActivity</string>
+    <string name="title_activity_table" translatable="false">TableActivity</string>
+    <string name="title_activity_login" translatable="false">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome" translatable="false">"Welcome !"</string>
+    <string name="invalid_username" translatable="false">Not a valid username</string>
+    <string name="invalid_password" translatable="false">Password must be >5 characters</string>
+    <string name="login_failed" translatable="false">"Login failed"</string>
+    <string name="title_activity_intro" translatable="false">IntroActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard" translatable="false">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="connection_settings">Nastavení připojení</string>
+    <string name="connection_settings_notification">Údaje vám poskytne váš správce IT.</string>
+    <string name="Server">Server</string>
+    <string name="Database">Databáze</string>
+    <string name="string_set">Nastavit</string>
+    <string name="enter_server_msg">Vyplňte server</string>
+    <string name="enter_db_msg">Vyplňte databázi</string>
+    <string name="connection_error_msg">Chyba při připojování, zkontrolujte připojení k internetu nebo se obraťe na technickou podporu WinShop</string>
+    <string name="login_allowed">Přihlášení povoleno</string>
+    <string name="login_denied">Toto zařízení nemá povolený přístup nebo bylo deaktivováno, vyčkejte na potvrzující e-mail nebo se obraťte na servis.sql@winshop.cz</string>
+    <string name="login_success">Úspěšně přihlášeno</string>
+    <string name="error">Chyba</string>
+    <string name="close">Zavřít</string>
+    <string name="cancel">Zrušit</string>
+    <string name="app_settings_title">Nastavení aplikace</string>
+    <string name="app_settings_notification">Zadejte administrátorské heslo</string>
+    <string name="password">Heslo</string>
+    <string name="registration_title">Registrace</string>
+    <string name="registration_text">Nastavení připojení. Údaje vám poskytne váš správce sítě</string>
+    <string name="register_msg">Vyplňte prosím všechna pole</string>
+    <string name="adm_pw">fjord</string>
+    <string name="device_not_found">Zařízení nalezeno</string>
+    <string name="pw_wrong">Špatné heslo</string>
+    <string name="wh_alert_title">Nevíme kam patříte</string>
+    <string name="wh_alert_text">Vyberte prosím prodejnu, na které se nacházíte</string>
+    <string name="enter_pw_msg">Zadejte heslo</string>
+
+    <string name="colour">Barva</string>
+    <string name="size">Velikost</string>
+    <string name="length">Délka</string>
+    <string name="dimensions">Rozměr</string>
+    <string name="warehouses">Sklady</string>
+    <string name="similar">Související zboží</string>
+    <string name="unknown_barcode">Neznámý čárový kód</string>
+    <string name="unknown_barcode_msg">Tento čárový kód nebyl rozpoznán. Zkuste ho naskenovat znovu.</string>
+
+    <string name="no_data_found">Nebyly nalezeny žádné záznamy</string>
+
+
+    <string name="warehouse_title">Nastavení skladu</string>
+    <string name="warehouse_msg">Vybarte váš sklad</string>
+    <string name="set">Nastavit</string>
+    <string name="save">Uložit</string>
+
+    <string name="connection_error">Chyba připojení. Vyčkejte prosím chvíli a poté opakujte akci.</string>
+    <string name="connection_error_alt">Chyba připojení. Vyčkejte prosím chvíli a poté klikněte na tlačítko obnovit.</string>
+
+    <string name="invalid_connection">Chybný přístup</string>
+    <string name="invalid_connection_msg">Chybné přístupové údaje. Proveďte prosím znovu příhlášení.</string>
+    <string name="data_unavailable">Data nejsou k dispozici</string>
+    <string name="refresh">Obnovit</string>
+    <string name="no_items_found">Nebyly nalezeny žádné položky</string>
+    <string name="enter_email">Zadejte prosím platný email</string>
+    <string name="fill_all_fields">Vyplňte prosím všechna pole</string>
+    <string name="device_exists">Zařízení již existuje, není potřeba registrovat</string>
+    <string name="registration_successful">Zařízení bylo registrováno. Vyčkejte prosím na potvrzovací email o povolení přihlášení.</string>
+    <string name="server_db_change">Změna serveru/databáze</string>
+    <string name="warehouse_change">Změna skladu</string>
+    <string name="other_settings">Další nastavení</string>
+    <string name="forString">pro</string>
+    <string name="settings">Nastavení</string>
+    <string name="item_name">Název zboží</string>
+    <string name="item_code">Kód zboží</string>
+    <string name="done" translatable="false">Hotovo</string>
+    <string name="pw_hint">Zadejte heslo</string>
+    <string name="main_connect">Připojit</string>
+    <string name="enter_pw">Zadejte heslo</string>
+    <string name="reg_phone_number">Telefon</string>
+    <string name="reg_email">Email</string>
+    <string name="reg_pw">Heslo</string>
+    <string name="reg_register">Registrovat</string>
+    <string name="reg_device_name">Název zařízení</string>
+    <string name="reg_your_info">Vaše informace</string>
+    <string name="statistics_title">Statistiky</string>
+    <string name="preferencesErrorMsg">V aplikaci dolo ke kritické chybě. Příhlašte so prosím znovu.</string>
+
+    <string name="languageTitle">Jazyk</string>
+    <string name="languageMessage">Vyberte si váš jazyk</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="debugLanguageButton">Změna jazyka</string>
+    <string name="change_to_cz">Pro změnu jazyka se prosím znovu přihlašte</string>
+    <string name="change_to_en">To apply the language change, please log in again</string>
+    <string name="customer_name_title">Jméno zákazníka</string>
+    <string name="customer_code_title">Kód zákazníka</string>
+    <string name="discount_value">Výše slevy</string>
+    <string name="credit_code_title">Kód kreditu</string>
+    <string name="credit_acquired">Pořízeno</string>
+    <string name="credit_note">Poznámka</string>
+    <string name="credit_amount">Částka</string>
+    <string name="user">Uživatel</string>
+    <string name="customer">Zákazník</string>
+    <string name="credit">Kredit</string>
+    <string name="name">Jméno</string>
+    <string name="ico">IČO</string>
+    <string name="dic">DIČ</string>
+    <string name="status">Stav</string>
+    <string name="value">Hodnota</string>
+    <string name="valid_from">Platnost od</string>
+    <string name="valid_to">Platnost do</string>
+    <string name="number">Číslo</string>
+    <string name="ean">EAN</string>
+    <string name="company_name">Název firmy</string>
+    <string name="surname">Příjmení</string>
+    <string name="address">Adresa</string>
+    <string name="discount_group">Slevová skupina</string>
+    <string name="barcode">Čárový kód</string>
+    <string name="amount">Hodnota</string>
+    <string name="city">Město</string>
+    <string name="postcode">PSČ</string>
+    <string name="general_discount">Jednotná sleva</string>
+    <string name="assigned_credit">Přidělený kredit</string>
+    <string name="available_credit">Dostupný kredit</string>
+    <string name="due_date">Splatnost</string>
+    <string name="total_retail_turnover">Celkový obrat maloobchod</string>
+    <string name="points_total">Body celkem</string>
+    <string name="history">Historie</string>
+    <string name="order_history">Historie nákupů</string>
+    <string name="transaction_history">Historie transakcí</string>
+    <string name="pw_change">Změna hesla</string>
+    <string name="pw_change_message">Zadejte prosím vaše staré heslo a vaše nové heslo</string>
+    <string name="oldPw">Staré heslo</string>
+    <string name="newPw">Nové heslo</string>
+    <string name="statusPwChanged">Heslo bylo úspěšně změněno</string>
+    <string name="statusPwNotChanged">Heslo se neshoduje</string>
+    <string name="pw_verification">Ověření nového hesla</string>
+    <string name="pw_not_matching">Hesla se neshodují</string>
+    <string name="load_next">Načíst další</string>
+    <string name="entering_1_piece">Zadávání po kusech</string>
+    <string name="amount_variable">Volitelné množství</string>
+    <string name="form_creation_title">Pořízení dokladů</string>
+    <string name="unfinished_form">Neuzavřený doklad</string>
+    <string name="unfinished_form_id">ID dokladu</string>
+    <string name="unfinished_form_date">datum dokladu</string>
+    <string name="unfinished_form_item_count">Počet položek</string>
+    <string name="unfinished_form_existing_items_message">Máte neuzavřené doklady, chcete je zobrazit nebo vytvořit nový doklad?</string>
+    <string name="unfinished_form_selection">Výběr dokladu</string>
+    <string name="unfinished_form_finish">Uzavřít doklad</string>
+
+    <string name="formview_title">Práce s doklady</string>
+    <string name="unfinished_pdt">Neuzavřený doklad</string>
+    <string name="unfinished_pdt_id">ID dokladu</string>
+    <string name="unfinished_pdt_date">datum dokladu</string>
+    <string name="unfinished_pdt_item_count">Počet položek</string>
+    <string name="unfinished_pdt_existing_items_message">Máte neuzavřené doklady, chcete je zobrazit nebo vytvořit nový doklad?</string>
+    <string name="unfinished_pdt_selection">Výběr dokladu</string>
+    <string name="unfinished_pdt_finish">Uzavřít doklad</string>
+    <string name="ok">OK</string>
+
+    <string name="piece_one">1 kus</string>
+    <string name="piece_multiple">Více kusů</string>
+    <string name="amount_pcs">Množství</string>
+    <string name="amount_message">Zadejte množství</string>
+    <string name="item_edit_amount">Upravit množství</string>
+    <string name="item_delete">Vymazat položku</string>
+    <string name="label_print_title">Tisk etiket</string>
+    <string name="disconnecting">Odpojování</string>
+    <string name="not_connected">Nepřipojeno</string>
+    <string name="comm_error">Chyba komunikace! Odpojeno.</string>
+    <string name="sending_data">Odesílám data</string>
+    <string name="connecting">Přípojování</string>
+    <string name="port_invalid">Špatné číslo portu</string>
+    <string name="connected">Připojeno</string>
+    <string name="determining_lang">Zjišťování jazyka tiskárny</string>
+    <string name="printer_lang">Jazyk tiskárny</string>
+    <string name="printer_lang_unknown">Neznámý jazyk tiskárny</string>
+    <string name="ean_not_found">EAN nenalezen</string>
+    <string name="printer_address_title">Adresa tiskárny</string>
+    <string name="printer_address_message">Nastavení IP adresy mobilní tiskárny</string>
+    <string name="printer_address_tag">Adresa</string>
+    <string name="enter_valid_ip">Zadejte platnou IP adresu</string>
+    <string name="enter_only_positive_integers">Zadejte prosím celé kladné číslo</string>
+    <string name="print_settings_title">Nastavení tisku</string>
+    <string name="print_mode_text">Režim tisku</string>
+    <string name="label">Etiketa</string>
+    <string name="delete_string">Smazat</string>
+    <string name="finish_string">Dokončit</string>
+    <string name="activity_intent_filter_action">com.winshopzebra.ACTION</string>
+    <string name="activity_intent_filter_action_alternative" translatable="false">device.scanner.EVENT</string>
+    <string name="datawedge_intent_key_source">com.symbol.datawedge.source</string>
+    <string name="datawedge_intent_key_label_type">com.symbol.datawedge.label_type</string>
+    <string name="datawedge_intent_key_data">com.symbol.datawedge.data_string</string>
+    <string name="logout_notice">Opravdu se chcete odhlásit?</string>
+    <string name="logout_msg">Stisknutím tlačítka OK se odhlásíte z aplikace</string>
+    <string name="rename">Přejmenovat</string>
+    <string name="load_package">Načíst balík</string>
+    <string name="msg_wait">Waiting...</string>
+    <string name="scan_result">Scanned Result</string>
+    <string name="return_to_menu">Návrat do menu</string>
+    <string name="return_to_menu_msg">Opravdu se chcete vrátit do menu aplikace?</string>
+    <string name="manual_entry">Manuální zadání</string>
+    <string name="manual_entry_msg">Zadejte intčíslo dokladu, který chcete načíst (včetně předpony)</string>
+
+</resources>
