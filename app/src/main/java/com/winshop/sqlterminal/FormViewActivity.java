@@ -147,7 +147,6 @@ public class FormViewActivity extends AppCompatActivity {
         formSettingsButton = findViewById(R.id.formSettingsButton);
         manualEntryButton = findViewById(R.id.manualEntryButton);
 
-
         finishFormButton = (Button) findViewById(R.id.formViewFinishButton);
         finishFormButton.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -161,8 +160,6 @@ public class FormViewActivity extends AppCompatActivity {
                 adapter.notifyDataSetChanged();
                 listView.setAdapter(adapter);
                 formViewTitleTextView.setText(formViewTitle);
-
-
 
 
                 //onBackPressed();

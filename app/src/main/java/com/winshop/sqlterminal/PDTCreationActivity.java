@@ -2813,7 +2813,7 @@ public class PDTCreationActivity extends AppCompatActivity {
                     }
 
                     lastSentTimestamp = System.currentTimeMillis();
-                    /*if(arraycontains){
+                    if(arraycontains){
                         try {
 
                             //MediaPlayer mp = MediaPlayer.create(PDTCreationActivity.this, com.winshop.companion.R.raw.beep_01a);
@@ -2854,7 +2854,7 @@ public class PDTCreationActivity extends AppCompatActivity {
                         }catch (Exception e){
                             e.printStackTrace();
                         }
-                    } */
+                    }
 
                     return null;
 

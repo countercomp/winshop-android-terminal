@@ -409,7 +409,7 @@ public class AppActivity extends AppCompatActivity {
             }
         });
 
-        formViewButton.setVisibility(View.GONE);
+        formViewButton.setVisibility(View.VISIBLE);
 
 
     } // end of onCreate

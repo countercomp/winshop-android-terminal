@@ -183,7 +183,7 @@ public class PDTSelectionActivity extends AppCompatActivity {
                         public void onClick(View v) {
                             Intent unfinishedFormIntent = new Intent(PDTSelectionActivity.this, PDTCreationActivity.class);
                             TableRow t = (TableRow) v;
-                            TextView hlavickaTV = (TextView)  ((TableRow) v).getChildAt(1);
+                            TextView hlavickaTV = (TextView)  ((TableRow) v).getChildAt(3);
                             String hlavicka_id = hlavickaTV.getText().toString();
                             editor.putString(DOKLAD_STAV, "unfinished");
                             editor.putString(DOKLAD_HLAVICKA_ID, hlavicka_id);

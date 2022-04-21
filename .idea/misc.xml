@@ -5,6 +5,9 @@
       <map>
         <entry key="..\:/Android Studio Projects/SQLterminal/app/src/main/res/layout/activity_app.xml" value="0.36666666666666664" />
         <entry key="..\:/Android Studio Projects/SQLterminal/app/src/main/res/layout/activity_p_d_t_creation.xml" value="0.33" />
+        <entry key="..\:/Android Studio Projects/SQLterminal/app/src/main/res/layout/doklad_polozka_item.xml" value="0.36666666666666664" />
+        <entry key="..\:/Android Studio Projects/SQLterminal/app/src/main/res/layout/doklad_polozka_item_legacy.xml" value="0.36666666666666664" />
+        <entry key="..\:/Android Studio Projects/SQLterminal/app/src/main/res/menu/form_creation_menu.xml" value="0.36666666666666664" />
       </map>
     </option>
   </component>
