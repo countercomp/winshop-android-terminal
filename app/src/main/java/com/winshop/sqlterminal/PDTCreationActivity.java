@@ -1664,7 +1664,7 @@ public class PDTCreationActivity extends AppCompatActivity {
                 });
                 alert.setNegativeButton(close, new DialogInterface.OnClickListener() {
                     public void onClick(DialogInterface dialog, int whichButton) {
-                        exit(0);
+                        //exit(0);
                     }
                 });
                 //Looper.prepare();
